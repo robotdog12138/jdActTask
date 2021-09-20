@@ -89,6 +89,7 @@ function txtWTFromJson(res) {
       let displayTitle = activityInfo.displayTitle;
       let promotionMessage = activityInfo.promotionMessage;
       let prodSkuList = activityInfo.prodSkuList;
+      console.log(prodSkuList)
       console.log(
         "活动内容:" +
           displayTitle +
