@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "axios": "^0.21.0",
+    "chalk": "^4.1.0",
+    "inquirer": "^7.3.3",
+    "moment": "^2.29.1",
+    "request": "^2.88.2",
+    "scraperjs": "^1.2.0",
+    "superagent": "^6.1.0"
+  }
+}
